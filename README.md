@@ -1,4 +1,5 @@
 # gm_metromap
-A test map for Metrostroi(GMod addon)
-This map is for Garry's Mod's Metrostroi addon.
+Tesztpálya a Metrostroihoz.
+Jelenleg egy kocsiszín és egy próbavágány található rajta.
+Eredetileg a VHE használatának teszteléséhez használtuk.
 ###### Made by Xenox and Erik08King
